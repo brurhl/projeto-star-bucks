@@ -63,6 +63,16 @@
  .logo {
      width: 80px;
  }
+
+ .fundo {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    z-index: -1;
+    left: 0;
+    opacity: 15%;
+ }
  
  .starbucks {
      width: 340px;
